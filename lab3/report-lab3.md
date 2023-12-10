@@ -163,7 +163,7 @@ add area=backbone
 set name=R01.MSK
 ```
 
-*Роутер HKI:
+* Роутер HKI:
 
 ```
 # dec/10/2023 15:02:27 by RouterOS 6.47.9

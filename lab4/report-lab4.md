@@ -523,7 +523,7 @@ set name=R01.SVL
 
 ![](https://github.com/Persiwall/2023_2024-introduction_in_routing-k33202-arefyev_d_v/blob/master/lab4/pictures/PC1-ping.png "Пинг1")
 ![](https://github.com/Persiwall/2023_2024-introduction_in_routing-k33202-arefyev_d_v/blob/master/lab4/pictures/PC2-ping.png "Пинг2")
-![](https://github.com/Persiwall/2023_2024-introduction_in_routing-k33202-arefyev_d_v/blob/master/lab4/pictures/PC3-ping.png"Пинг3")
+![](https://github.com/Persiwall/2023_2024-introduction_in_routing-k33202-arefyev_d_v/blob/master/lab4/pictures/PC3-ping.png "Пинг3")
 
 **Вывод:** 
 В ходе лабораторной работы м были изучены протоколы BGP, MPLS, VPLS и L3VPN, а также получены базовые знания по их настройке в сетевой лабе ContainerLab
